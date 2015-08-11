@@ -1,0 +1,91 @@
+<wpml-config>  
+	<custom-types>
+	 	<custom-type translate="1">portfolio</custom-type>
+	 	<custom-type translate="0">acf</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_type</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">flamingo_video_service</custom-field>
+		<custom-field action="copy">_flamingo_video_service</custom-field>
+		<custom-field action="copy">flamingo_vimeo_video_id</custom-field>
+		<custom-field action="copy">_flamingo_vimeo_video_id</custom-field>
+		<custom-field action="copy">flamingo_video_width</custom-field>
+		<custom-field action="copy">_flamingo_video_width</custom-field>
+		<custom-field action="copy">flamingo_video_height</custom-field>
+		<custom-field action="copy">_flamingo_video_height</custom-field>
+		<custom-field action="copy">flamingo_youtube_video_id</custom-field>
+		<custom-field action="copy">_flamingo_youtube_video_id</custom-field>
+		<custom-field action="copy">flamingo_background_video</custom-field>
+		<custom-field action="copy">_flamingo_background_video</custom-field>
+		<custom-field action="copy">flamingo_background_color</custom-field>			
+		<custom-field action="copy">flamingo_background_image</custom-field>			
+		<custom-field action="copy">flamingo_background_map</custom-field>			
+		<custom-field action="copy">flamingo_background_type</custom-field>			
+		<custom-field action="copy">flamingo_background_video</custom-field>			
+		<custom-field action="copy">flamingo_content_info_box</custom-field>			
+		<custom-field action="copy">flamingo_enable_slideshow</custom-field>			
+		<custom-field action="copy">flamingo_exclude_project_types</custom-field>			
+		<custom-field action="copy">flamingo_featured_project</custom-field>			
+		<custom-field action="copy">flamingo_featured_project_image</custom-field>			
+		<custom-field action="copy">flamingo_hide_project_types_filters</custom-field>			
+		<custom-field action="copy">flamingo_hide_project_type_filters_menu</custom-field>			
+		<custom-field action="copy">flamingo_map_location</custom-field>			
+		<custom-field action="copy">flamingo_map_marker</custom-field>			
+		<custom-field action="copy">flamingo_map_zoom</custom-field>			
+		<custom-field action="translate">flamingo_page_description</custom-field>			
+		<custom-field action="copy">flamingo_page_description_color</custom-field>			
+		<custom-field action="copy">flamingo_project_background_color</custom-field>			
+		<custom-field action="copy">flamingo_project_background_image</custom-field>			
+		<custom-field action="copy">flamingo_project_background_type</custom-field>			
+		<custom-field action="copy">flamingo_project_background_video</custom-field>			
+		<custom-field action="translate">flamingo_project_description</custom-field>			
+		<custom-field action="copy">flamingo_project_description_color</custom-field>			
+		<custom-field action="copy">flamingo_project_gallery</custom-field>			
+		<custom-field action="copy">flamingo_project_gallery_0_flamingo_gallery_image</custom-field>			
+		<custom-field action="translate">flamingo_project_gallery_0_flamingo_slide_description</custom-field>			
+		<custom-field action="translate">flamingo_project_gallery_0_flamingo_slide_title</custom-field>			
+		<custom-field action="translate">flamingo_project_gallery_0_flamingo_video_url</custom-field>			
+		<custom-field action="copy">flamingo_project_gallery_0_flamingo_video_width</custom-field>					
+		<custom-field action="copy">flamingo_project_gallery_enable</custom-field>			
+		<custom-field action="translate">flamingo_related_projects</custom-field>			
+		<custom-field action="translate">flamingo_section_description</custom-field>			
+		<custom-field action="copy">flamingo_slideshow</custom-field>			
+		<custom-field action="translate">flamingo_slideshow_0_custom_link</custom-field>			
+		<custom-field action="translate">flamingo_slideshow_0_description</custom-field>			
+		<custom-field action="copy">flamingo_slideshow_0_image</custom-field>			
+		<custom-field action="translate">flamingo_slideshow_0_link</custom-field>			
+		<custom-field action="translate">flamingo_slideshow_0_title</custom-field>					
+		<custom-field action="copy">_flamingo_background_color</custom-field>			
+		<custom-field action="copy">_flamingo_background_image</custom-field>			
+		<custom-field action="copy">_flamingo_background_map</custom-field>			
+		<custom-field action="copy">_flamingo_background_type</custom-field>			
+		<custom-field action="copy">_flamingo_background_video</custom-field>			
+		<custom-field action="copy">_flamingo_content_info_box</custom-field>			
+		<custom-field action="copy">_flamingo_enable_slideshow</custom-field>			
+		<custom-field action="copy">_flamingo_exclude_project_types</custom-field>			
+		<custom-field action="copy">_flamingo_featured_project</custom-field>			
+		<custom-field action="copy">_flamingo_featured_project_image</custom-field>			
+		<custom-field action="copy">_flamingo_hide_project_types_filters</custom-field>			
+		<custom-field action="copy">_flamingo_hide_project_type_filters_menu</custom-field>				
+		<custom-field action="copy">_flamingo_map_location</custom-field>			
+		<custom-field action="copy">_flamingo_map_marker</custom-field>			
+		<custom-field action="copy">_flamingo_map_zoom</custom-field>			
+		<custom-field action="copy">_flamingo_page_description</custom-field>			
+		<custom-field action="copy">_flamingo_page_description_color</custom-field>			
+		<custom-field action="copy">_flamingo_project_background_color</custom-field>			
+		<custom-field action="copy">_flamingo_project_background_image</custom-field>			
+		<custom-field action="copy">_flamingo_project_background_type</custom-field>			
+		<custom-field action="copy">_flamingo_project_background_video</custom-field>			
+		<custom-field action="copy">_flamingo_project_description</custom-field>			
+		<custom-field action="copy">_flamingo_project_description_color</custom-field>			
+		<custom-field action="copy">_flamingo_project_gallery</custom-field>
+  	</custom-fields>
+    <admin-texts>
+    	<key name="vankarwai_options">
+	        <key name="flamingo_footer_copy" />
+	        <key name="flamingo_footer_social_copy" />
+        </key>
+    </admin-texts>
+</wpml-config>

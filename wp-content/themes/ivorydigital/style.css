@@ -1,0 +1,102 @@
+/*
+ Theme Name:     Ivory Digital (Flamingo Child)
+ Theme URI:      http://www.ivorydigitalnyc.com/
+ Description:    
+ Author:         ID
+ Author URI:     http://www.ivorydigitalnyc.com/
+ Template:       flamingo
+ Version:        1.0.0
+*/
+ 
+@import url("../flamingo/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+/**
+ * Icons
+ */
+
+.icon-email:before {
+    content: "\f003";
+}
+
+.inner-subfooter .social-icon li .email:hover {
+    background-color: #333333;
+    border-color: transparent;
+}
+
+
+
+/**
+ * Home
+ */
+.portfolio-logo img {
+    -webkit-transition: opacity 300ms ease-out;
+    -moz-transition: opacity 300ms ease-out;
+    -o-transition: opacity 300ms ease-out;
+    transition: opacity 300ms ease-out;
+}
+
+.portfolio-logo img:hover {
+    opacity: 0.5;    
+}
+
+
+
+/**
+ * Slider
+ */
+body.page-id-2129 .content .slide-title a, body.page-id-2129 .content .slide-desc {
+    color: #fff;
+}
+
+body .content .display-divider {
+    background-color: #fff;
+    display: none;
+}
+
+body .content .slide-title a {
+    font-weight: 700;
+    font-size: 69px;
+}
+
+body .content .slide-desc {
+    line-height: 1.6rem;
+    text-transform: none;
+}
+
+body .content .slide-desc .wpb_button_a {
+    display: inline-block;
+    margin-top: 1.6rem;
+}
+
+body .content .slide-desc .wpb_button_a > span {
+    background-color: #fff;
+    color: #ff005a;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+body .content .slide-desc .wpb_button_a:hover > span {
+    background-color: #ff005a;
+    color: #fff;
+}
+
+body .display-slide {
+    top: 220px;
+}
+
+
+
+/**
+ * Buttons
+ */
+
+.wpb_wrapper .wpb_regularsize {
+    font-size: 16px !important;
+    color: #ff005a;
+}

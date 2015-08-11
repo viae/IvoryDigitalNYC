@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flamingo\n"
+"POT-Creation-Date: 2013-11-04 14:07+0100\n"
+"PO-Revision-Date: 2013-11-04 14:07+0100\n"
+"Last-Translator: Andreu Llos <andreu.llos@gmail.com>\n"
+"Language-Team: VanKarWai\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-fields.php:12
+msgid "Background Type"
+msgstr ""
+
+#: ../custom-fields.php:18
+msgid "Use default background"
+msgstr ""
+
+#: ../custom-fields.php:19 ../options/general.php:177
+#: ../options/portfolio.php:148
+msgid "Plain Color"
+msgstr ""
+
+#: ../custom-fields.php:20 ../options/general.php:177
+msgid "Fullscreen Image"
+msgstr ""
+
+#: ../custom-fields.php:21 ../options/general.php:177
+#: ../options/portfolio.php:148
+msgid "Pattern Image"
+msgstr ""
+
+#: ../custom-fields.php:28
+msgid "Background Image"
+msgstr ""
+
+#: ../custom-fields.php:52
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-fields.php:70
+msgid "Background Video"
+msgstr ""
+
+#: ../custom-fields.php:73
+msgid "Enter the video embed code"
+msgstr ""
+
+#: ../custom-fields.php:374
+msgid "Project Description"
+msgstr ""
+
+#: ../custom-fields.php:377
+msgid ""
+"Enter a short description for the project. This description will be shown on "
+"the right side of project page."
+msgstr ""
+
+#: ../custom-fields.php:394
+msgid ""
+"Enable this option to locate project title and description inside the "
+"project main content instead of in the page header."
+msgstr ""
+
+#: ../custom-fields.php:400
+msgid "Featured Project"
+msgstr ""
+
+#: ../custom-fields.php:403
+msgid ""
+"Featured projects will be shown in the Project Slideshow shortcode which you "
+"can setup with Visual Composer."
+msgstr ""
+
+#: ../custom-fields.php:409
+msgid "Featured Project Image"
+msgstr ""
+
+#: ../custom-fields.php:412
+msgid ""
+"Upload a custom project image that will be displayed at 1020x600px in the "
+"slideshow. Leave this field empty to display the project featured image."
+msgstr ""
+
+#: ../custom-fields.php:432
+msgid ""
+"If you add images or videos to the gallery, a button link will appear in the "
+"project page to open the gallery in fullscreen mode."
+msgstr ""
+
+#: ../custom-fields.php:438
+msgid "Project Fullscreen Gallery"
+msgstr ""
+
+#: ../custom-fields.php:455
+msgid "Image"
+msgstr ""
+
+#: ../custom-fields.php:464
+msgid "Video URL"
+msgstr ""
+
+#: ../custom-fields.php:467
+msgid ""
+"Enter a Vimeo or YouTube video URL in case you want the slide to be a video"
+msgstr ""
+
+#: ../custom-fields.php:474
+msgid "Video Width"
+msgstr ""
+
+#: ../custom-fields.php:481
+msgid "Slide Title"
+msgstr ""
+
+#: ../custom-fields.php:490
+msgid "Slide Description"
+msgstr ""
+
+#: ../custom-fields.php:502
+msgid "Add Slide"
+msgstr ""
+
+#: ../custom-fields.php:519
+msgid "Related Projects"
+msgstr ""
+
+#: ../custom-post-types.php:21
+msgid "Search Project Types"
+msgstr ""
+
+#: ../custom-post-types.php:22
+msgid "Popular Project Types"
+msgstr ""
+
+#: ../custom-post-types.php:23
+msgid "All Project Types"
+msgstr ""
+
+#: ../custom-post-types.php:24
+msgid "Parent Project Types"
+msgstr ""
+
+#: ../custom-post-types.php:25
+msgid "Edit Project Type"
+msgstr ""
+
+#: ../custom-post-types.php:26
+msgid "Update Project Type"
+msgstr ""
+
+#: ../custom-post-types.php:27
+msgid "Add Project Type"
+msgstr ""
+
+#: ../custom-post-types.php:28
+msgid "New Project Type"
+msgstr ""
+
+#: ../custom-post-types.php:29
+msgid "Add or remove Project Types"
+msgstr ""
+
+#: ../custom-post-types.php:33
+msgid "Project Type"
+msgstr ""
+
+#: ../custom-post-types.php:54
+msgid "Add New Project"
+msgstr ""
+
+#: ../custom-post-types.php:55
+msgid "Edit Project"
+msgstr ""
+
+#: ../custom-post-types.php:56
+msgid "New Project"
+msgstr ""
+
+#: ../custom-post-types.php:57
+msgid "View Project"
+msgstr ""
+
+#: ../custom-post-types.php:58
+msgid "Search Project"
+msgstr ""
+
+#: ../custom-post-types.php:59
+msgid "No Project found"
+msgstr ""
+
+#: ../custom-post-types.php:60
+msgid "No Project found in Trash"
+msgstr ""
+
+#: ../custom-post-types.php:83
+msgid "Project Image"
+msgstr ""
+
+#: ../custom-post-types.php:84
+msgid "Client"
+msgstr ""
+
+#: ../custom-post-types.php:108
+msgid "Featured Image"
+msgstr ""
+
+#: ../custom-post-types.php:137
+msgid "Slideshow Images"
+msgstr ""
+
+#: ../enqueues.php:7
+msgid "Load more"
+msgstr ""
+
+#: ../enqueues.php:8
+msgid "No more pages to load"
+msgstr ""
+
+#: ../settings.php:116 ../settings.php:165
+msgid "General"
+msgstr ""
+
+#: ../settings.php:123 ../settings.php:183
+msgid "Fonts"
+msgstr ""
+
+#: ../settings.php:130 ../settings.php:171
+msgid "Portfolio"
+msgstr ""
+
+#: ../settings.php:137 ../settings.php:177
+msgid "Blog"
+msgstr ""
+
+#: ../settings.php:165 ../options/general.php:13
+msgid "General Options"
+msgstr ""
+
+#: ../settings.php:171
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../settings.php:177
+msgid "Blog Options"
+msgstr ""
+
+#: ../settings.php:183
+msgid "Fonts Options"
+msgstr ""
+
+#: ../shortcodes.php:420
+msgid "loading tweets..."
+msgstr ""
+
+#: ../shortcodes.php:536
+msgid "Project Slideshow"
+msgstr ""
+
+#: ../shortcodes.php:539 ../shortcodes.php:574 ../shortcodes.php:660
+#: ../shortcodes.php:687
+msgid "Flamingo"
+msgstr ""
+
+#: ../shortcodes.php:547 ../shortcodes.php:582
+msgid "Title"
+msgstr ""
+
+#: ../shortcodes.php:549
+msgid "Featured Projects"
+msgstr ""
+
+#: ../shortcodes.php:555 ../shortcodes.php:590
+msgid "Number of projects"
+msgstr ""
+
+#: ../shortcodes.php:563 ../shortcodes.php:631 ../options/portfolio.php:49
+msgid "Order Projects By"
+msgstr ""
+
+#: ../shortcodes.php:571
+msgid "Project Grid"
+msgstr ""
+
+#: ../shortcodes.php:584
+msgid "Latest Work"
+msgstr ""
+
+#: ../shortcodes.php:598 ../options/portfolio.php:41
+msgid "Thumb columns"
+msgstr ""
+
+#: ../shortcodes.php:606
+msgid "Exclude Featured Projects"
+msgstr ""
+
+#: ../shortcodes.php:609
+msgid "Exclude the featured projects that are displayed in the slideshow"
+msgstr ""
+
+#: ../shortcodes.php:615
+msgid "Display Project Type"
+msgstr ""
+
+#: ../shortcodes.php:623 ../options/portfolio.php:75
+#: ../options/portfolio.php:113
+msgid "Display Project Date"
+msgstr ""
+
+#: ../shortcodes.php:639
+msgid "Include a link to Portfolio"
+msgstr ""
+
+#: ../shortcodes.php:647
+msgid "Portfolio Link Title"
+msgstr ""
+
+#: ../shortcodes.php:649
+msgid "View Portfolio"
+msgstr ""
+
+#: ../shortcodes.php:657 ../options/blog.php:71 ../options/general.php:228
+msgid "Twitter"
+msgstr ""
+
+#: ../shortcodes.php:668
+msgid "Twitter Username"
+msgstr ""
+
+#: ../shortcodes.php:670
+msgid "vankarwai"
+msgstr ""
+
+#: ../shortcodes.php:676
+msgid "Number of tweets to show"
+msgstr ""
+
+#: ../shortcodes.php:684
+msgid "Google Maps"
+msgstr ""
+
+#: ../shortcodes.php:695
+msgid "Coordinates"
+msgstr ""
+
+#: ../shortcodes.php:698
+msgid "You can get your coordinates in"
+msgstr ""
+
+#: ../shortcodes.php:704
+msgid "Marker Image"
+msgstr ""
+
+#: ../shortcodes.php:711
+msgid "Zoom"
+msgstr ""
+
+#: ../options/blog.php:11
+msgid "Blog General Options"
+msgstr ""
+
+#: ../options/blog.php:12
+msgid "Blog Sharing Options"
+msgstr ""
+
+#: ../options/blog.php:28
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../options/blog.php:29 ../options/blog.php:37
+msgid "Sidebar Disabled"
+msgstr ""
+
+#: ../options/blog.php:29 ../options/blog.php:37
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../options/blog.php:29 ../options/blog.php:37
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../options/blog.php:36
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: ../options/blog.php:44
+msgid "Blog Layout Style"
+msgstr ""
+
+#: ../options/blog.php:45
+msgid "Standard Layout"
+msgstr ""
+
+#: ../options/blog.php:45
+msgid "Horizontal Thumbs Layout"
+msgstr ""
+
+#: ../options/blog.php:45
+msgid "Vertical Thumbs Layout"
+msgstr ""
+
+#: ../options/blog.php:45
+msgid "Layout Without Thumbs"
+msgstr ""
+
+#: ../options/blog.php:53
+msgid "Display Author Name"
+msgstr ""
+
+#: ../options/blog.php:59
+msgid "Display Post Date"
+msgstr ""
+
+#: ../options/blog.php:65
+msgid "Display Post Category"
+msgstr ""
+
+#: ../options/blog.php:77 ../options/general.php:234
+msgid "Facebook"
+msgstr ""
+
+#: ../options/blog.php:83 ../options/general.php:240
+msgid "Google +"
+msgstr ""
+
+#: ../options/blog.php:89 ../options/general.php:246
+msgid "Pinterest"
+msgstr ""
+
+#: ../options/fonts.php:11
+msgid "General Font Options"
+msgstr ""
+
+#: ../options/fonts.php:26
+msgid "Primary Typeface"
+msgstr ""
+
+#: ../options/fonts.php:32 ../options/fonts.php:40
+msgid ""
+"<strong>(S)</strong>: System Font. <strong>(G)</strong>: Google Webfont."
+msgstr ""
+
+#: ../options/fonts.php:36
+msgid "Secondary Typeface"
+msgstr ""
+
+#: ../options/general.php:11
+msgid "General Style Options"
+msgstr ""
+
+#: ../options/general.php:12
+msgid "General Background Options"
+msgstr ""
+
+#: ../options/general.php:14
+msgid "Social Options"
+msgstr ""
+
+#: ../options/general.php:28
+msgid "Select a slider or create a new one"
+msgstr ""
+
+#: ../options/general.php:48
+msgid "Google Analytics Domain ID"
+msgstr ""
+
+#: ../options/general.php:49
+msgid ""
+"To get Google Analytics on your site, simply introduce you Google Analytics "
+"Domain ID here. It should be something like UA-123456-1."
+msgstr ""
+
+#: ../options/general.php:55
+msgid "Footer Credits Text"
+msgstr ""
+
+#: ../options/general.php:60
+msgid "Custom Logo"
+msgstr ""
+
+#: ../options/general.php:62
+msgid ""
+"Upload a logo or specify the image URL of your logo. This logo will be shown "
+"in the portfolio header. If retina is enabled, you have to upload the logo "
+"image at double size. Note you should click on 'Insert to post' button in "
+"order to insert the image correctly."
+msgstr ""
+
+#: ../options/general.php:69
+msgid "Custom Logo Width"
+msgstr ""
+
+#: ../options/general.php:70 ../options/general.php:77
+msgid "Logo size is only necessary if you enabled retina display option."
+msgstr ""
+
+#: ../options/general.php:76
+msgid "Custom Logo Height"
+msgstr ""
+
+#: ../options/general.php:82
+msgid "Custom Logo Horizontal Position"
+msgstr ""
+
+#: ../options/general.php:85
+msgid ""
+"A positive value will move the logo to the right. A negative one, will move "
+"it to the left."
+msgstr ""
+
+#: ../options/general.php:90
+msgid "Custom Logo Vertical Position"
+msgstr ""
+
+#: ../options/general.php:93
+msgid ""
+"A positive value will move the logo up. A negative one, will move it down."
+msgstr ""
+
+#: ../options/general.php:98
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../options/general.php:100
+msgid "Upload a 16x16px PNG that will represent your website's favicon."
+msgstr ""
+
+#: ../options/general.php:106
+msgid "Custom Retina Favicon"
+msgstr ""
+
+#: ../options/general.php:108
+msgid "Upload a 144x144px PNG for the retina version favicon."
+msgstr ""
+
+#: ../options/general.php:114
+msgid "Menu layout"
+msgstr ""
+
+#: ../options/general.php:115
+msgid "Layout 1"
+msgstr ""
+
+#: ../options/general.php:115
+msgid "Layout 2"
+msgstr ""
+
+#: ../options/general.php:115
+msgid "Layout 3"
+msgstr ""
+
+#: ../options/general.php:122
+msgid "General Layout Style"
+msgstr ""
+
+#: ../options/general.php:123
+msgid "Angles Layout"
+msgstr ""
+
+#: ../options/general.php:123
+msgid "Straight Standard Layout"
+msgstr ""
+
+#: ../options/general.php:123
+msgid "Minimal Layout"
+msgstr ""
+
+#: ../options/general.php:131
+msgid "Main Color"
+msgstr ""
+
+#: ../options/general.php:137
+msgid "Secondary Color"
+msgstr ""
+
+#: ../options/general.php:143
+msgid "Menu Links Color"
+msgstr ""
+
+#: ../options/general.php:149
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../options/general.php:159
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options/general.php:160
+msgid ""
+"Insert here your custom CSS code to overwrite the theme's one. Note that you "
+"can also add your custom CSS code to the custom.css file inside the css "
+"folder of the theme."
+msgstr ""
+
+#: ../options/general.php:165
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: ../options/general.php:171
+msgid "Content Background Color"
+msgstr ""
+
+#: ../options/general.php:176
+msgid "Angles Background Type"
+msgstr ""
+
+#: ../options/general.php:177
+msgid "Fullscreen Video"
+msgstr ""
+
+#: ../options/general.php:180
+msgid "This background will be displayed in all the pages."
+msgstr ""
+
+#: ../options/general.php:186
+msgid "Default Plain Background Color"
+msgstr ""
+
+#: ../options/general.php:191 ../options/general.php:199
+msgid "Angles Background Image"
+msgstr ""
+
+#: ../options/general.php:200
+msgid ""
+"This image will be displayed only if 'Fullscreen Image' or 'Pattern Image' "
+"is selected in the 'Portfolio Background Type' option."
+msgstr ""
+
+#: ../options/general.php:205
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: ../options/general.php:210
+msgid "YouTube Video ID"
+msgstr ""
+
+#: ../options/general.php:216
+msgid "Source Video Width"
+msgstr ""
+
+#: ../options/general.php:222
+msgid "Source Video Height"
+msgstr ""
+
+#: ../options/general.php:252
+msgid "Linkedin"
+msgstr ""
+
+#: ../options/general.php:258
+msgid "Evernote"
+msgstr ""
+
+#: ../options/general.php:264
+msgid "Tumblr"
+msgstr ""
+
+#: ../options/general.php:269 ../options/general.php:283
+#: ../options/general.php:297 ../options/general.php:311
+#: ../options/general.php:325
+msgid "Footer Social Network"
+msgstr ""
+
+#: ../options/general.php:278 ../options/general.php:292
+#: ../options/general.php:306 ../options/general.php:320
+#: ../options/general.php:334
+msgid "Footer Social URL"
+msgstr ""
+
+#: ../options/portfolio.php:11
+msgid "Portfolio General Options"
+msgstr ""
+
+#: ../options/portfolio.php:12
+msgid "Single Project Options"
+msgstr ""
+
+#: ../options/portfolio.php:13
+msgid "Portfolio Style Options"
+msgstr ""
+
+#: ../options/portfolio.php:30
+msgid "Project URL Slug"
+msgstr ""
+
+#: ../options/portfolio.php:36
+msgid "Projects Per Page"
+msgstr ""
+
+#: ../options/portfolio.php:50
+msgid "Date"
+msgstr ""
+
+#: ../options/portfolio.php:50
+msgid "Menu Order"
+msgstr ""
+
+#: ../options/portfolio.php:53
+msgid ""
+"If you want to order the projects by a custom menu order, we recommend you "
+"to install the <a href='http://wordpress.org/extend/plugins/simple-page-"
+"ordering/' target='_blank'>Simple Page Ordering</a> plugin.<br />If you "
+"install it, note that you have to click on 'Sort by Order' button on the top "
+"of the projects list before trying to sort them."
+msgstr ""
+
+#: ../options/portfolio.php:58
+msgid "Project Filtering Type"
+msgstr ""
+
+#: ../options/portfolio.php:59
+msgid "Default Filtering"
+msgstr ""
+
+#: ../options/portfolio.php:59
+msgid "Isotope Filtering"
+msgstr ""
+
+#: ../options/portfolio.php:62
+msgid ""
+"You can enable the Isotope Filtering option if you want to filter the "
+"projects without reload the page and with a smooth animation effect."
+msgstr ""
+
+#: ../options/portfolio.php:67
+msgid "Project Pagination Type"
+msgstr ""
+
+#: ../options/portfolio.php:68
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../options/portfolio.php:68
+msgid "Standard Pagination"
+msgstr ""
+
+#: ../options/portfolio.php:76
+msgid "If checked, display the date of the project when mouseover the project."
+msgstr ""
+
+#: ../options/portfolio.php:82 ../options/portfolio.php:120
+msgid "Display Project Categories"
+msgstr ""
+
+#: ../options/portfolio.php:83
+msgid ""
+"If checked, display the categories of the project when mouseover the project."
+msgstr ""
+
+#: ../options/portfolio.php:88
+msgid "Gallery Style"
+msgstr ""
+
+#: ../options/portfolio.php:92
+msgid "Choose between three styles for the gallery layout."
+msgstr ""
+
+#: ../options/portfolio.php:97
+msgid "Project Gallery Transition"
+msgstr ""
+
+#: ../options/portfolio.php:98
+msgid "Fade"
+msgstr ""
+
+#: ../options/portfolio.php:98
+msgid "Flash"
+msgstr ""
+
+#: ../options/portfolio.php:98
+msgid "Pulse"
+msgstr ""
+
+#: ../options/portfolio.php:98
+msgid "Slide"
+msgstr ""
+
+#: ../options/portfolio.php:98
+msgid "Fade Slide"
+msgstr ""
+
+#: ../options/portfolio.php:105
+msgid "Project Gallery Fit"
+msgstr ""
+
+#: ../options/portfolio.php:106
+msgid "Prevent Upscale"
+msgstr ""
+
+#: ../options/portfolio.php:106
+msgid "Fullscreen"
+msgstr ""
+
+#: ../options/portfolio.php:106
+msgid "Dynamic (Let User Choose)"
+msgstr ""
+
+#: ../options/portfolio.php:114
+msgid "If checked, display the date in the project details page."
+msgstr ""
+
+#: ../options/portfolio.php:121
+msgid "If checked, display the categories in the project details page."
+msgstr ""
+
+#: ../options/portfolio.php:126
+msgid "Display Project Next/Prev Arrows"
+msgstr ""
+
+#: ../options/portfolio.php:128
+msgid "If checked, display arrows for paginate between projects"
+msgstr ""
+
+#: ../options/portfolio.php:133
+msgid "Thumb Mouseover Opacity"
+msgstr ""
+
+#: ../options/portfolio.php:142
+msgid "Thumbs Text Color"
+msgstr ""
+
+#: ../options/portfolio.php:147
+msgid "Thumbs Background Type"
+msgstr ""
+
+#: ../options/portfolio.php:148
+msgid "Gradient Color"
+msgstr ""
+
+#: ../options/portfolio.php:156
+msgid "Thumbs Background Color"
+msgstr ""
+
+#: ../options/portfolio.php:162
+msgid "Thumbs Background Color 2"
+msgstr ""
+
+#: ../options/portfolio.php:163 ../options/portfolio.php:172
+msgid "Only used if gradient background type is selected."
+msgstr ""
+
+#: ../options/portfolio.php:168
+msgid "Thumb Background Angle"
+msgstr ""
+
+#: ../options/portfolio.php:177
+msgid "Thumbs Background Pattern"
+msgstr ""
+
+#: ../options/portfolio.php:185
+msgid "Custom Thumbs Background Pattern"
+msgstr ""
+
+#: ../options/portfolio.php:186
+msgid ""
+"Upload an image or a pattern for your site background. Note you should click "
+"the 'Insert to post' button in order to insert the image correctly."
+msgstr ""
+
+#: ../tinymce/tinymce.php:36
+msgid "All shortcodes"
+msgstr ""
+
+#: ../tinymce/tinymce.php:43
+msgid "Pick a Shortcode"
+msgstr ""
+
+#: ../tinymce/tinymce.php:44
+msgid "Divider"
+msgstr ""
+
+#: ../tinymce/tinymce.php:45
+msgid "Big Title"
+msgstr ""
+
+#: ../tinymce/tinymce.php:46
+msgid "Highlight Text"
+msgstr ""
+
+#: ../tinymce/tinymce.php:47
+msgid "Button"
+msgstr ""
+
+#: ../tinymce/tinymce.php:48
+msgid "Dropcap"
+msgstr ""
+
+#: ../tinymce/tinymce.php:49
+msgid "List"
+msgstr ""
+
+#: ../tinymce/tinymce.php:50
+msgid "Quote"
+msgstr ""
+
+#: ../tinymce/tinymce.php:63
+msgid "Dotted line"
+msgstr ""
+
+#: ../tinymce/tinymce.php:81 ../tinymce/tinymce.php:119
+#: ../tinymce/tinymce.php:136 ../tinymce/tinymce.php:226
+msgid "Text"
+msgstr ""
+
+#: ../tinymce/tinymce.php:96
+msgid "Align"
+msgstr ""
+
+#: ../tinymce/tinymce.php:103 ../tinymce/tinymce.php:175
+msgid "Normal"
+msgstr ""
+
+#: ../tinymce/tinymce.php:104 ../tinymce/tinymce.php:213
+msgid "Left"
+msgstr ""
+
+#: ../tinymce/tinymce.php:105
+msgid "Center"
+msgstr ""
+
+#: ../tinymce/tinymce.php:106 ../tinymce/tinymce.php:212
+msgid "Right"
+msgstr ""
+
+#: ../tinymce/tinymce.php:152
+msgid "URL"
+msgstr ""
+
+#: ../tinymce/tinymce.php:168
+msgid "Size"
+msgstr ""
+
+#: ../tinymce/tinymce.php:176
+msgid "Medium"
+msgstr ""
+
+#: ../tinymce/tinymce.php:177
+msgid "Large"
+msgstr ""
+
+#: ../tinymce/tinymce.php:188
+msgid "Remove background"
+msgstr ""
+
+#: ../tinymce/tinymce.php:204
+msgid "Arrow"
+msgstr ""
+
+#: ../tinymce/tinymce.php:211
+msgid "No"
+msgstr ""
+
+#: ../tinymce/tinymce.php:242
+msgid "Background"
+msgstr ""
+
+#: ../tinymce/tinymce.php:249
+msgid "Light"
+msgstr ""
+
+#: ../tinymce/tinymce.php:250
+msgid "Dark"
+msgstr ""
+
+#: ../tinymce/tinymce.php:262
+msgid "Author"
+msgstr ""
+
+#: ../tinymce/tinymce.php:278
+msgid "Type"
+msgstr ""
+
+#: ../tinymce/tinymce.php:285
+msgid "Default"
+msgstr ""
+
+#: ../tinymce/tinymce.php:286
+msgid "Simple"
+msgstr ""
+
+#: ../tinymce/tinymce.php:297 ../tinymce/tinymce.php:357
+msgid "Content"
+msgstr ""
+
+#: ../tinymce/tinymce.php:315
+msgid "Icon"
+msgstr ""
+
+#: ../tinymce/tinymce.php:322
+msgid "None"
+msgstr ""
+
+#: ../tinymce/tinymce.php:323
+msgid "Bolt"
+msgstr ""
+
+#: ../tinymce/tinymce.php:324
+msgid "Certificate"
+msgstr ""
+
+#: ../tinymce/tinymce.php:325
+msgid "Check"
+msgstr ""
+
+#: ../tinymce/tinymce.php:326
+msgid "Minus"
+msgstr ""
+
+#: ../tinymce/tinymce.php:327
+msgid "Ok"
+msgstr ""
+
+#: ../tinymce/tinymce.php:328
+msgid "Ok Circle"
+msgstr ""
+
+#: ../tinymce/tinymce.php:329
+msgid "Ok Sign"
+msgstr ""
+
+#: ../tinymce/tinymce.php:330
+msgid "Plus"
+msgstr ""
+
+#: ../tinymce/tinymce.php:341
+msgid "Dotted Bottom Border"
+msgstr ""
+
+#: ../tinymce/tinymce.php:376
+msgid "Current shortcode with all available attributes"
+msgstr ""
+
+#: ../tinymce/tinymce.php:377
+msgid "red"
+msgstr ""
+
+#: ../tinymce/tinymce.php:377
+msgid "required"
+msgstr ""
+
+#: ../tinymce/tinymce.php:397
+msgid "Insert Shortcode"
+msgstr ""

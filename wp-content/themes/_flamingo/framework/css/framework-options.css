@@ -1,0 +1,39 @@
+.image_preview { width:100%;margin-top:10px;padding: 4px; margin-bottom: 5px;}
+.image_preview img { display: block; margin: 0 auto; }
+.rounded_preview { -webkit-border-radius:3px;border-radius:3px;-moz-border-radius: 3px;  }
+.bordered_preview { border: 1px solid #dfdfdf; }
+.bg_preview { float: left; margin-right: 10px; max-width: 100px; }
+.bg_preview.image_select { max-width: 165px; }
+.bg_preview.image_select img { opacity: .5;}
+.bg_preview.image_select span { display: block; margin-top: 4px; text-align: center; }
+.bg_preview.image_select.active_preview img { opacity: 1; }
+.pattern_preview, .pattern_preview div { width: 60px; height: 60px;}
+.bg_preview div { background-position: center center; cursor: pointer; background-color: #f4f4f4; }
+.bg_preview img { margin: 0 auto; }
+.img_preview { padding: 5px; overflow: hidden; }
+.image_preview.active_preview { background-color: #dfdfdf;}
+.nav_preview { width: 240px; }
+.nav_preview .image_preview_inner { padding: 20px 0; }
+.nav_preview img { margin: 0; }
+.webfont_preview { font-size: 22px;padding: 7px 5px 5px 5px; font-family: Arial, sans-serif; width: 30em;}
+.ui-widget-content { border-color: #dfdfdf; width: 25em; float: left; margin-top: 4px; margin-right: 12px; }
+.slider .slider-value { float: left; margin-left: 10px; }
+.vkw-typography-container select, .vkw-typography-container .colorpicker-container { float: left; margin-right: 7px; margin-bottom: 0; }
+.vkw-typography-container select { margin-bottom: 10px; }
+.vkw-typography-container .colorpicker-container { bottom: 5px; width: 30px; }
+.vkw-typography-container p { clear: left; line-height: 1em; max-width: 474px; margin-bottom: 6px; overflow: hidden; }
+.vkw-typography-container label { float: left; margin-right: 10px; margin-top: 3px; }
+.uploadimg { width: 33em; }
+.clear { clear: both; }
+span.clear { display: block; }
+.vkw-screen { margin-bottom: 10px; border:5px solid #dfdfdf; -webkit-border-radius:3px;border-radius:3px;-moz-border-radius: 3px; }
+.vkw-index-num { float: left; width: 20px; padding-top: 4px; height: 60px; font-weight: bold; }
+span.description { display: block;clear:left; }
+.vkw_type_typography span.description { margin-left:20px;float:left; }
+.vkw-typography-container { float: left; }
+.empty-bg span { text-align: center; padding-top: 20px; display: block;  }
+body.post-php .meta-box-sortables .colorpicker-container { left: 170px; height: 18px; top: -20px; }
+input.button-primary { margin-top: 25px; }
+.uploadpattern { margin-top: 5px; margin-bottom: 10px; }
+.vkw-screen-slider-container { width: 242px; min-height: 240px; float: left;  }
+.vkw-screen { float: left; margin-right: 12px; }
